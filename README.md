@@ -10,4 +10,4 @@
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh1203&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh1203&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh120&layout=compact)
