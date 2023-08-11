@@ -1,4 +1,6 @@
+<p>
 ![Header](./saurabh-github-header-image.png)
+</p>
 
 <h1 align="center">Hi 👋, I'm Saurabh </h1>
  
