@@ -21,3 +21,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singh1203&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
