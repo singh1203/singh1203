@@ -1,7 +1,8 @@
 ![Header](./saurabh-github-header-image.png)
 
-[![An image of @singh1203's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singh1203)](https://holopin.io/@singh1203)
 <h1 align="center">Hi 👋, I'm Saurabh </h1>
+
+[![An image of @singh1203's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singh1203)](https://holopin.io/@singh1203)
  
 <!--
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=singh1203.singh1203" alt="singh1203"> </p> -->
