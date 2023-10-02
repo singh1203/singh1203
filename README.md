@@ -1,6 +1,6 @@
 ![Header](./saurabh-github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Saurabh </h1>
+<h1 align="center">Hi👋, I'm Saurabh </h1>
 
 [![An image of @singh1203's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singh1203)](https://holopin.io/@singh1203)
  
