@@ -15,4 +15,4 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" </p>
 
-### Hiring for Golang, C++, Kubernetes, and DevOps. Let's chat on Twitter(X).
+**Note:** _Hiring for Golang, C++, Kubernetes, and DevOps. Let's chat on Twitter(X)_
