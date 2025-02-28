@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Saurabh </h1>
 
 - 👨‍💻 I'm a Software Developement Engineer(SDE) and an Open-Source Enthusiast.
-- 🌱 I’m currently learning: **C++, Golang, Kubernetes, Service-Mesh, Linux, & DevOps**
+- 🌱 I’m currently learning: **C++, Golang, Kubernetes, Service-Mesh, Linux, & Microservices**
 - 📫 You can reach me at **Singh1203.ss@gmail.com**
 - :rocket: Below are my awesome Layer5 badges.
   
@@ -15,4 +15,4 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" </p>
 
-**Note:** _Hiring for Golang, C++, Kubernetes, and DevOps. Let's chat on Twitter(X)_
+**Note:** _Hiring for Golang, C++, Kubernetes, and Developemnt. Let's connect on Twitter(X)_
