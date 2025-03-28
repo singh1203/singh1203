@@ -15,4 +15,4 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" </p>
 
-**Note:** _Open to software roles in Golang, C++, Kubernetes, Linux, and networking—especially in low-latency systems. Let's connect on [Twitter(X)](https://x.com/saurabh_1203)._
+**Note:** _Open to software roles in Golang, C++, Kubernetes, Linux, and networking—especially in low-latency distributed systems. Let's connect on [Twitter(X)](https://x.com/saurabh_1203)._
