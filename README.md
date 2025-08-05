@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋, I'm Saurabh </h1>
 
 - 👨‍💻 I'm a Software Developement Engineer(SDE) and an Open-Source Enthusiast.
-- 🤝 Co-Organizer for CNCF Lucknow Chapter.
-- 🌱 I’m currently learning: **C++, Golang, Kubernetes, Service-Mesh, Linux, & Cloud-Native**
-- 📫 You can reach me at **Singh1203.ss@gmail.com**
+- 🤝 Co-Organizer for **CNCF Lucknow Chapter**.
+- 🌱 I’m currently focusing: **C++, Golang, Kubernetes, Service-Mesh, Linux, & Cloud-Native Ecosystem**
+- 📫 You can reach me at **📧 Email:** Singh1203.ss@gmail.com
 - :rocket: Below are my awesome Layer5 badges.
   
   <a href= "https://meshery.layer5.io/user/840232a6-f96b-42c3-91a4-f6acc8a5bd36?tab=badges&badge=meshery" >
@@ -16,4 +16,4 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" </p>
 
-**Note:** _Open to software roles in Golang, C++, Kubernetes, Linux, and networking—especially in low-latency distributed systems. Let's connect on [Twitter(X)](https://x.com/saurabh_1203)._
+**Note:** _Open to software roles in Low-latency distributed systems, Service Mesh, Kubernetes, and Financial Infrastructure. Let's connect on **🐦 Twitter:** [@saurabh_1203](https://x.com/saurabh_1203)._
