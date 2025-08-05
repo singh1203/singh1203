@@ -1,7 +1,8 @@
 <h1 align="center">Hi👋, I'm Saurabh </h1>
 
 - 👨‍💻 I'm a Software Developement Engineer(SDE) and an Open-Source Enthusiast.
-- 🌱 I’m currently learning: **C++, Golang, Kubernetes, Service-Mesh, Linux, & Microservices**
+- 🤝 Co-Organizer for CNCF Lucknow Chapter.
+- 🌱 I’m currently learning: **C++, Golang, Kubernetes, Service-Mesh, Linux, & Cloud-Native**
 - 📫 You can reach me at **Singh1203.ss@gmail.com**
 - :rocket: Below are my awesome Layer5 badges.
   
