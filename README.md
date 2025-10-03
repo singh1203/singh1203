@@ -13,7 +13,11 @@
     <img width="120px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
     <img width="120px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
   </a >
-  
+
+<h3>Here are Learnings Blogs</h3>
+- <a href= https://medium.com/@singh1203.ss/nvidias-kai-scheduler-now-supports-leader-worker-sets-lws-for-ai-workloads-5c69569ec215>
+- <a href= https://medium.com/@singh1203.ss/demystifying-queues-in-nvidia-kai-scheduler-82ece7ef543c>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" </p>
 
 **Note:** _Open to software roles in Low-latency distributed systems, Service Mesh, Kubernetes, and Financial Infrastructure. Let's connect on **🐦 Twitter:** [@saurabh_1203](https://x.com/saurabh_1203)._
