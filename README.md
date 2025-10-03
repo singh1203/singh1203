@@ -14,9 +14,9 @@
     <img width="120px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
   </a >
 
-<h3>Here are Learnings Blogs</h3>
-- <a href= https://medium.com/@singh1203.ss/nvidias-kai-scheduler-now-supports-leader-worker-sets-lws-for-ai-workloads-5c69569ec215>
-- <a href= https://medium.com/@singh1203.ss/demystifying-queues-in-nvidia-kai-scheduler-82ece7ef543c>
+<h3>📝 My Latest Blog Posts on Medium</h3>
+- <a href= https://medium.com/@singh1203.ss/nvidias-kai-scheduler-now-supports-leader-worker-sets-lws-for-ai-workloads-5c69569ec215>NVIDIA's Kai Scheduler Now Supports Leader-Worker Sets (LWS) for AI Workloads</a>
+- <a href= https://medium.com/@singh1203.ss/demystifying-queues-in-nvidia-kai-scheduler-82ece7ef543c>Demystifying Queues in NVIDIA Kai Scheduler</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" </p>
 
