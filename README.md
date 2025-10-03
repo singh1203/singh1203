@@ -7,11 +7,11 @@
 - :rocket: Below are my awesome Layer5 badges.
   
   <a href= "https://meshery.layer5.io/user/840232a6-f96b-42c3-91a4-f6acc8a5bd36?tab=badges&badge=meshery" >
-    <img width="120px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.png" alt = "Meshery" />
-    <img width="120px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt = "Hacktoberfest Contributor" />
-    <img width="120px" src = "https://badges.layer5.io/assets/badges/community/community.png" alt = "Community" />
-    <img width="120px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
-    <img width="120px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
+    <img width="100px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.png" alt = "Meshery" />
+    <img width="100px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt = "Hacktoberfest Contributor" />
+    <img width="100px" src = "https://badges.layer5.io/assets/badges/community/community.png" alt = "Community" />
+    <img width="100px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
+    <img width="100px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
   </a >
 
 <h3>📝 My Latest Blog Posts on Medium</h3>
