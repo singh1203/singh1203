@@ -15,9 +15,19 @@
   </a >
 
 <h3>📝 My Latest Blog Posts on Medium</h3>
+
+<p align="left">
 - <a href= https://medium.com/@singh1203.ss/nvidias-kai-scheduler-now-supports-leader-worker-sets-lws-for-ai-workloads-5c69569ec215>NVIDIA's Kai Scheduler Now Supports Leader-Worker Sets (LWS) for AI Workloads</a>
+<br>
 - <a href= https://medium.com/@singh1203.ss/demystifying-queues-in-nvidia-kai-scheduler-82ece7ef543c>Demystifying Queues in NVIDIA Kai Scheduler</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" </p>
 
 **Note:** _Open to software roles in Low-latency distributed systems, Service Mesh, Kubernetes, and Financial Infrastructure. Let's connect on **🐦 Twitter:** [@saurabh_1203](https://x.com/saurabh_1203)._
+
+
+<p align="center">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@singh1203.ss/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@singh1203.ss/0" alt="Recent Article 0">
+  </a>
+</p>
