@@ -22,7 +22,6 @@
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@singh1203.ss/0" alt="Recent Article 0">
   </a>
 </p>
-
 <p align="center">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@singh1203.ss/1">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@singh1203.ss/1" alt="Recent Article 1">
