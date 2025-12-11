@@ -18,16 +18,16 @@
 <!-- Display the most recent blog posts from Medium -->
 
 <p align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@singh1203.ss/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@singh1203.ss/0" alt="Recent Article 0">
+  <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@singh1203.ss/demystifying-queues-in-nvidia-kai-scheduler-82ece7ef543c">
+    <strong>Demystifying Queues in NVIDIA KAI Scheduler</strong>
   </a>
 </p>
 <p align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@singh1203.ss/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@singh1203.ss/1" alt="Recent Article 1">
+  <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@singh1203.ss/nvidias-kai-scheduler-now-supports-leader-worker-sets-lws-for-ai-workloads-5c69569ec215">
+    <strong>NVIDIA's KAI Scheduler — Leader-Worker Sets (LWS) Support</strong>
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" /> </p>
 
 **Note:** _Open to software roles in Low-latency distributed systems, Service Mesh, Kubernetes, and Financial Infrastructure. Let's connect on **🐦 Twitter:** [@saurabh_1203](https://x.com/saurabh_1203)._
