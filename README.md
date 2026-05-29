@@ -18,6 +18,11 @@
 <!-- Display the most recent blog posts from Medium -->
 
 <p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@singh1203.ss/journey-from-contributor-to-release-team-kubernetes-v1-36-ハル-haru-e3c671cafc36">
+    <strong>Journey from Contributor to Release Team: Kubernetes v1.36 ハル (Haru)</strong>
+  </a>
+</p>
+<p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@singh1203.ss/demystifying-queues-in-nvidia-kai-scheduler-82ece7ef543c">
     <strong>Demystifying Queues in NVIDIA KAI Scheduler</strong>
   </a>
