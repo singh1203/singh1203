@@ -6,13 +6,27 @@
 - 📫 You can reach me at **📧 Email:** Singh1203.ss@gmail.com
 - :rocket: Below are my awesome Layer5 badges.
   
-  <a href= "https://meshery.layer5.io/user/840232a6-f96b-42c3-91a4-f6acc8a5bd36?tab=badges&badge=meshery" >
-    <img width="90px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.png" alt = "Meshery" />
-    <img width="90px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt = "Hacktoberfest Contributor" />
-    <img width="90px" src = "https://badges.layer5.io/assets/badges/community/community.png" alt = "Community" />
-    <img width="90px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
-    <img width="90px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
-  </a >
+<a href="https://meshery.layer5.io/user/840232a6-f96b-42c3-91a4-f6acc8a5bd36?tab=badges&badge=meshery">
+  <table>
+    <tr>
+      <td width="20%" align="center">
+        <img src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt="Meshery" width="100%" style="max-width:100px;" />
+      </td>
+      <td width="20%" align="center">
+        <img src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt="Hacktoberfest Contributor" width="100%" style="max-width:100px;" />
+      </td>
+      <td width="20%" align="center">
+        <img src="https://badges.layer5.io/assets/badges/community/community.png" alt="Community" width="100%" style="max-width:100px;" />
+      </td>
+      <td width="20%" align="center">
+        <img src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt="Continuous Contributor" width="100%" style="max-width:100px;" />
+      </td>
+      <td width="20%" align="center">
+        <img src="https://badges.layer5.io/assets/badges/first-share/first-share.png" alt="Sharing is Caring" width="100%" style="max-width:100px;" />
+      </td>
+    </tr>
+  </table>
+</a>
 
 <h3>📝 My Latest Blog Posts on Medium</h3>
 <!-- Display the most recent blog posts from Medium -->
