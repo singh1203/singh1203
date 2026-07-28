@@ -10,19 +10,19 @@
   <table>
     <tr>
       <td width="20%" align="center">
-        <img src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt="Meshery" width="40" />
+        <img src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt="Meshery" width="100" />
       </td>
       <td width="20%" align="center">
-        <img src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt="Hacktoberfest Contributor" width="40" />
+        <img src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt="Hacktoberfest Contributor" width="100" />
       </td>
       <td width="20%" align="center">
-        <img src="https://badges.layer5.io/assets/badges/community/community.png" alt="Community" width="40" />
+        <img src="https://badges.layer5.io/assets/badges/community/community.png" alt="Community" width="100" />
       </td>
       <td width="20%" align="center">
-        <img src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt="Continuous Contributor" width="40" />
+        <img src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt="Continuous Contributor" width="100" />
       </td>
       <td width="20%" align="center">
-        <img src="https://badges.layer5.io/assets/badges/first-share/first-share.png" alt="Sharing is Caring" width="40" />
+        <img src="https://badges.layer5.io/assets/badges/first-share/first-share.png" alt="Sharing is Caring" width="100" />
       </td>
     </tr>
   </table>
