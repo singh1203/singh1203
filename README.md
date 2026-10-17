@@ -1,9 +1,10 @@
 <h1 align="center">Hi👋, I'm Saurabh </h1>
 
-- 👨‍💻 I'm a Software Developement Engineer(SDE) and an Open-Source Enthusiast.
-- 🤝 Co-Organizer for **CNCF Lucknow Chapter**.
-- 🌱 I’m currently focusing: **C++, Golang, Kubernetes, Service-Mesh, Linux, & Cloud-Native Ecosystem**
-- 📫 You can reach me at **📧 Email:** Singh1203.ss@gmail.com
+👨‍💻 I’m a Systems Software Engineer focused on low-level C/C++, Linux OS internals, and network architectures.
+🤝 Upstream Kubernetes Release Team member (v1.36 & v1.37) and Co-Organizer for the CNCF Lucknow Chapter.
+🌱 I’m currently focusing on: Modern C++ (C++17/20), C, POSIX Sockets, Linux KVM, Multithreading, & Kernel Subsystems.
+🛠️ Debugging and profiling with GDB, Valgrind, and Linux performance tracing tools.
+📫 You can reach me at 📧 Email: Singh1203.ss@gmail.com
 - :rocket: Below are my awesome Layer5 badges.
   
 <div align="center">
