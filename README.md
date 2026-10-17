@@ -51,6 +51,8 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" /> </p>
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=singh1203.singh1203&left_text=Profile%20Views&logo=github" alt="Profile Views" />
+</p>
 
 **Note:** _Open to software engineering roles in Low-Level C/C++, Linux Systems, Network Infrastructure, Kernel Internals, and Distributed Runtimes. Let's connect on **🐦 Twitter:** [@saurabh_1203](https://x.com/saurabh_1203)._
