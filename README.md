@@ -1,10 +1,11 @@
 <h1 align="center">Hi👋, I'm Saurabh </h1>
 
-👨‍💻 I’m a Systems Software Engineer focused on low-level C/C++, Linux OS internals, and network architectures.
-🤝 Upstream Kubernetes Release Team member (v1.36 & v1.37) and Co-Organizer for the CNCF Lucknow Chapter.
-🌱 I’m currently focusing on: Modern C++ (C++17/20), C, POSIX Sockets, Linux KVM, Multithreading, & Kernel Subsystems.
-🛠️ Debugging and profiling with GDB, Valgrind, and Linux performance tracing tools.
-📫 You can reach me at 📧 Email: Singh1203.ss@gmail.com
+- 👨‍💻 I’m a Software Engineer focused on low-level C/C++, Linux OS internals, and network architectures.
+- 🤝 Upstream Kubernetes Release Team member (v1.36 & v1.37) and Co-Organizer for the CNCF Lucknow Chapter.
+- 🌱 I’m currently focusing on: Modern C++ (C++17/20), C, POSIX Sockets, Linux KVM, Multithreading, & Kernel Subsystems.
+- 🛠️ Debugging and profiling with GDB, Valgrind, and Linux performance tracing tools.
+- 📫 You can reach me at 📧 Email: **Singh1203.ss@gmail.com**
+- 
 - :rocket: Below are my awesome Layer5 badges.
   
 <div align="center">
@@ -52,4 +53,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1203&label=Profile+views&style=for-the-badge&color=orange" alt="singh1203" /> </p>
 
-**Note:** _Open to software roles in Low-latency distributed systems, Service Mesh, Kubernetes, and Financial Infrastructure. Let's connect on **🐦 Twitter:** [@saurabh_1203](https://x.com/saurabh_1203)._
+**Note:** _Open to software engineering roles in Low-Level C/C++, Linux Systems, Network Infrastructure, Kernel Internals, and Distributed Runtimes. Let's connect on **🐦 Twitter:** [@saurabh_1203](https://x.com/saurabh_1203)._
