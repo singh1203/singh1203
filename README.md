@@ -5,7 +5,6 @@
 - 🌱 I’m currently focusing on: Modern C++ (C++17/20), C, POSIX Sockets, Linux KVM, Multithreading, & Kernel Subsystems.
 - 🛠️ Debugging and profiling with GDB, Valgrind, and Linux performance tracing tools.
 - 📫 You can reach me at 📧 Email: **Singh1203.ss@gmail.com**
-- 
 - :rocket: Below are my awesome Layer5 badges.
   
 <div align="center">
